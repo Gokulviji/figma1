@@ -1,0 +1,150 @@
+body{
+    margin: 0%;
+}
+#section1{
+    width: 1040px;
+    height: 732px;
+    background: linear-gradient(180deg, #FBD542 0%, #FAD13A 100%);
+    margin-left: 250px;
+    margin-top: -45px;
+}
+.div1{
+    background-image: url(images/Div2\ BG.png);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+#we{
+    color: #1D1E23;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.88px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 34.5px;
+    margin-left: 70px;
+}
+#are{
+    color: #1D1E23;
+    font-family: Lato;
+    font-size: 58px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.88px;
+    margin-left: 10px;
+}
+#digital{
+    position: absolute;
+    font-size: 75px;
+    font-style: italic;
+    font-family: Lato;
+    margin-top: -35px;
+    margin-left: 70px;
+    color: #1D1E23;
+    
+}
+#img{
+    width: 300px;
+    margin-left: 40px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+#studio{
+    color: #1D1E23;
+    font-family: Lato;
+    font-size: 68px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.88px;
+    margin-left: 68px;
+    margin-top: -1px;
+}
+#img2{
+    position: absolute;
+     margin-top: -340px;
+     margin-left: 450px;
+     width: 130px;
+}
+.div2{
+    position: absolute;
+    margin-top: -690px;
+    margin-left: 650px;
+}
+.div21{
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.div21>h1{
+    color: #222327;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.div22{
+    margin-left: 30px;
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+.div22>p{
+    margin-top: -20px;
+    color: #3d3f43;
+    font-style: normal;
+    line-height: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    word-spacing: 3px;
+   
+}
+.div22>h4{
+    color: #222327;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#get{
+    display: inline-flex;
+    padding: 18px 45px;
+    align-items: flex-start;
+    gap: 10px; 
+    border-radius: 20px;
+    background: #06040A;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 420px;
+}
+#img3{
+    position: absolute;
+    margin-top: -335px;
+    margin-left: 700px;
+    width: 280px;
+}
+#img4{
+    margin-top: -190px;
+    position: absolute;
+    margin-left: 685px;
+    width: 80px;
+}
+.social{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 660px;
+
+}
+.social>img{
+    width: 25px;
+    padding-left: 5px;
+}
